@@ -1,8 +1,1 @@
-   ____                   _        _____           _                   ____ _           _ _                       
-  / ___| ___   ___   __ _| | ___  |  ___|__   ___ | |__   __ _ _ __   / ___| |__   __ _| | | ___ _ __   __ _  ___ 
- | |  _ / _ \ / _ \ / _` | |/ _ \ | |_ / _ \ / _ \| '_ \ / _` | '__| | |   | '_ \ / _` | | |/ _ \ '_ \ / _` |/ _ \
- | |_| | (_) | (_) | (_| | |  __/ |  _| (_) | (_) | |_) | (_| | |    | |___| | | | (_| | | |  __/ | | | (_| |  __/
-  \____|\___/ \___/ \__, |_|\___| |_|  \___/ \___/|_.__/ \__,_|_|     \____|_| |_|\__,_|_|_|\___|_| |_|\__, |\___|
-                    |___/                                                                              |___/      
-
-Sharing this only for information purpose. Kind request not to duplicate or distribute. Thank you!
+A part of the Google Foobar Challenge. Sharing this only for information purpose. Kind request not to duplicate or distribute. Thank you!
